@@ -8,7 +8,7 @@ Using npm
 ```
 npm install
 ```
-Using yarn
+Or using yarn
 ```
 yarn install
 ```
