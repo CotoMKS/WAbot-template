@@ -2,6 +2,8 @@
 A Whatsapp bot template made with whatsapp-web.js
 
 ## Installation
+Clone this repository and install all the dependencies
+
 Using npm
 ```
 npm install
